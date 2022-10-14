@@ -9,7 +9,7 @@
 
 1. Have a canonical file of the NFT
    1. "the standard or primary authorative body of the subject"
-2. Be able to show the canonical file across platforms as a link
+2. Be able to show a reference/link/rendering of the canonical file across platforms
    1. Specalized platforms can render directly
 
 ## Non-goals 
