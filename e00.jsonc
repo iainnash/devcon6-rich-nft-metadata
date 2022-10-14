@@ -1,0 +1,8 @@
+// how do you mint a presentation? (.key, .pdf, or .ppt)
+{
+  "name": "Some ZORB Notes",
+  "description": "Orby",
+  "image": "ipfs://image-preview",
+  // opensea extension: (mostly) supports html, gltf, mp3, wav, mp4
+  "animation_url": "html page i guess???"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Matthew Ball's Original Metaverse Essay",
+  "description": "The Metaverse: What It Is, Where to Find It, And Who Will Build It",
+  // preview cover image for marketplace thumbnails
+  "image": "ipfs://QmbNrLBi9uuN1FVjEk2N9cmob7NrBxv88EppTC7wBQizvX/metaverse_preview.jpg",
+  // html rendering of markdown file
+  "animation_url": "ipfs://QmbNrLBi9uuN1FVjEk2N9cmob7NrBxv88EppTC7wBQizvX/matthew_ball_metaverse_essay_01.html",
+  "attributes": {
+    "Author": "Matthew Ball",
+    "Published Date": "Jan 13, 2020",
+    "Published": "https://www.matthewball.vc/all/themetaverse"
+  },
+  "content": {
+    "mimeType": "text/markdown",
+    "uri": "ipfs://QmbNrLBi9uuN1FVjEk2N9cmob7NrBxv88EppTC7wBQizvX/matthew_ball_metaverse_essay_01.md"
+  }
+}

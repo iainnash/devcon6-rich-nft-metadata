@@ -1,0 +1,13 @@
+{
+  "description": "ANDY WARHOL (1928-1987)\nUntitled (Andy Warhol)\nnon-fungible token (tif)\n4500 x 6000 pixels\nExecuted circa 1985 and minted in 2021. \n\n© The Andy Warhol Foundation for the Visual Arts, Inc. All rights reserved. \n\nThe Andy Warhol Foundation for the Visual Arts, Inc. (the “Foundation”) retains a 15% royalty interest on all future and secondary sales of this NFT (the “Resale Royalty”). The Resale Royalty is incorporated into the Smart Contract for this NFT. This Resale Royalty shall be due and payable to the Foundation for any subsequent sale of the NFT,  regardless of whether the NFT is sold through an alternative platform or marketplace, or is sold in any manner in which smart contract’s Resale Royalty is not automatically executed pursuant to the smart contact. By purchasing this NFT, the buyer, and any future buyer(s) or owner(s) of this NFT, are also agreeing to the conditions of this Resale Royalty, and shall promptly disburse such Resale Royalty to the Foundation in the event of such future sale.",
+  // tiff (canonical media download)
+  "external_url": "ipfs://bafybeih2km3pavi5cpelhdaiszrxsupz4ynedorzrqgf2z747d3bteldoe",
+  // png
+  "image": "ipfs://bafybeif2ocv2eewqnhrgomzedfbnhzx3mas7t73te5hnaisrirbjjoybti",
+  "name": "Untitled (Andy Warhol)",
+  "content": {
+    "mime": "image/amiga-encoded",
+    "uri": "ipfs://ipfs-hash",
+    "title": "original art"
+  }
+}

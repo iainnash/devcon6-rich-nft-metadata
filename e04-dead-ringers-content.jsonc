@@ -1,0 +1,13 @@
+{
+  "name": "Dead Ringers: Edition",
+  "created_by": "Dmitri Cherniak",
+  "description": "Dead Ringers: Edition\n\nEvery day in January 2022 I gen...[truncated]",
+  // PNG preview for marketplaces
+  "image": "https://arweave.net/4MkJ36F0KNddbSSCU-kYjsLn7C00Erpno3qnsUp7slU",
+  // Content for raw SVG display (multi-megabyte SVG file)
+  "content": {
+    "type": "image/svg+xml",
+    "uri": "https://arweave.net/4MkJ36F0KNddbSSCU-kYjsLn7C00Erpno3qnsUp7slU",
+    "sha256": "sha"
+  }
+}

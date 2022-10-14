@@ -1,0 +1,14 @@
+{
+  "name": "Essay",
+  "description": "Essay Description",
+  "image": "ipfs://ipfs-preview/",
+  // Canonical content
+  "content": {
+    // content type used for indexing (useful for determining content type for really large files)
+    "type": "text/markdown",
+    // can point to data uri or another file
+    "uri": "ipfs://markdown-essay",
+    // optional: used if IPFS cannot be found or cid types cannot verify file
+    "sha256": "0x4929429249429"
+  }
+}

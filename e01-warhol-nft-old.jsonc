@@ -1,0 +1,10 @@
+{
+  "description": "ANDY WARHOL (1928-1987)\nUntitled (Andy Warhol)\nnon-fungible token (tif)\n4500 x 6000 pixels",
+  // image as tiff (for lossless)
+  "external_url": "https://ipfs.fleek.co/ipfs/bafybeih2km3pavi5cpelhdaiszrxsupz4ynedorzrqgf2z747d3bteldoe",
+  // image as png (for rendering)
+  "image": "https://ipfs.fleek.co/ipfs/bafybeif2ocv2eewqnhrgomzedfbnhzx3mas7t73te5hnaisrirbjjoybti",
+  "mimeType": "image/tiff",
+  "name": "Untitled (Andy Warhol)",
+  "version": "zora-20210604"
+}
