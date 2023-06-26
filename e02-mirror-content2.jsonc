@@ -1,0 +1,36 @@
+{
+  "content": {
+    "body": "Since our launch, new online communities using Mirror have redefined what we can dream of together. Mirror has been fortunate to support ambitious crowdfunding campaigns like [The Ethereum Film](https://ethereumfilm.mirror.xyz/3SV8gLXHIW8Ot45h3RL7aOgDINxN2hjLfFVOvyatB2A). [Krause House](https://krausehouse.mirror.xyz/WERHklPoT3jGq2dxjy1Fxpi6NFnuvl3xeeNVeTdegSg) is on its way to buy an NBA team. [Blvkhhvnd](https://blvkhvnd.mirror.xyz/crowdfunds/0x320d83769Eb64096Ea74B686Eb586E197997f930) launched the first decentralized e-sports team and just won a world [championship](https://twitter.com/UniteEsports/status/1561042963421175811?t=sQ0O9SmXuhV6PePIXihCgQ&s=19). New contracts have allowed [Bright Moments](https://brightmoments.mirror.xyz/o_cjoK5HBXfTOZGEYZXynv7F70y208Ro2yHhopOMbEg) to experiment with novel auction mechanisms.\n\nWe’re inspired by how communities like these have used our tools in ways we could have never imagined, and grateful to see primitives pioneered at Mirror (like [crowdfunds](https://dev.mirror.xyz/llJ_AboiDJwB_ZAFz-CXU7fL2p8v5Wz6MjfluLafewQ), [splits](https://dev.mirror.xyz/mQ03-JXlfdoBnRrZisC5X3kM9nBkOILlHwxbdq382Gw), and [editions](https://dev.mirror.xyz/AOoIsKPfZvf8LACKWp7gj_mg1ICCDOfPnVBOsDQoXo8)) become adopted by leading platforms and tools across the ecosystem.\n\nAs always, we continue to ask: **how can Mirror best serve the web3 creator community?**\n\nWhile we’re extremely proud of all the experimentation since Mirror’s genesis, the community has made it clear that what sets Mirror apart is its unique capabilities for sharing announcements, updates, and ideas in web3. To that end, we wanted to rearticulate our commitment to creating the best home for web3 publishing.\n\nGoing forward, we want Mirror to do less but at a much higher level of quality and execution. Over the next few months, we'll strengthen the foundational functionality around writing and reading on Mirror, and then expand from there.\n\nWe’ve already shipped a number of features to improve the core publishing experience: such as [writing NFTs](https://dev.mirror.xyz/5gt60vKFJZ_tR1BjoJ7-Y0sNw7REebStHjzFU5x73J0) and [web3 subscriptions](https://dev.mirror.xyz/Jn62zF5n62BfowdaFgm3uIx3Fgp2vIR7b-HTSxKVXqk). As part of this distillation, we will be reimagining how funding tools can natively integrate into a holistic publishing toolkit for creators.\n\nStarting today, we are temporarily pausing creation of new plugins and simplifying the dashboard, as we design a new integration of funding tools composed with publishing and community building. \n\nExisting Crowdfunds, Editions, and Splits will continue to be accessible via their permalinks and entry blocks. For additional information on closing crowdfunds and withdrawing funds, or suggestions for alternative funding tools in the ecosystem, visit the [support portal](https://support.mirror.xyz/hc/en-us/sections/6797278569620-Plugins).\n\nIn alignment with this focus, we’ve updated the[ homepage](https://mirror.xyz/?persist) to articulate the core functionality of Mirror. We look forward to building the next generation of online publishing with you.\n\nMake sure to subscribe to get the latest Mirror news directly to your email.\n\n \n ",
+    "timestamp": "1661188957",
+    "title": "Update on Publishing Tools"
+  },
+  "digest": "o0creI07txK42z7fzbZYQ1v1d4FI98mR9Q0oEhqmQXc",
+  "authorship": {
+    "contributor": "0x9651B2a7Aa9ed9635cE896a1Af1a7d6294d5e902",
+    "signingKey": "{\"crv\":\"P-256\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"EC\",\"x\":\"CKvOjBVai3J9q4eU5fSzJHQcRFwoJbzOE0cexb8b_EI\",\"y\":\"dfBFa0zCwjn6rSGaR377r3ABOoa-n1W1rTka0G0a0g0\"}",
+    "signature": "0xe28341ba86020671c18892943cdc95eaeccf39203c8eca3a17fafa4c13282cb900810e48aed963ff16cee98acbdaa6231a14f7c54efc173b073a824ab5da98ee1c",
+    "signingKeySignature": "6K3E8CDWQ7hmsWhMEupio9Ri7w-uAaEsCTjgAZMgc0tpRtJlsbVL7h5omwqK4wNxm5ARqVAoD-ps1gn4-8wL8A",
+    "signingKeyMessage": "I authorize publishing on mirror.xyz from this device using:\n{\"crv\":\"P-256\",\"ext\":true,\"key_ops\":[\"verify\"],\"kty\":\"EC\",\"x\":\"CKvOjBVai3J9q4eU5fSzJHQcRFwoJbzOE0cexb8b_EI\",\"y\":\"dfBFa0zCwjn6rSGaR377r3ABOoa-n1W1rTka0G0a0g0\"}",
+    "algorithm": {
+      "name": "ECDSA",
+      "hash": "SHA-256"
+    }
+  },
+  "version": "04-25-2022",
+  "wnft": {
+    "chainId": 10,
+    "description": "Since our launch, new online communities using Mirror have redefined what we can dream of together. Mirror has been fortunate to support ambitious crowdfunding campaigns like The Ethereum Film. Krause House is on its way to buy an NBA team. Blvkhhvnd launched the first decentralized e-sports team and just won a world championship. New contracts have allowed Bright Moments to experiment with novel auction mechanisms.\n",
+    "fee": 250,
+    "fundingRecipient": "0x9651B2a7Aa9ed9635cE896a1Af1a7d6294d5e902",
+    "imageURI": "bafkreig3orwaxrpbx5id3u35cfthgarho6exq4ttcxcexfx665jwtah7cy",
+    "mediaAssetId": 176737,
+    "name": "Update on Publishing Tools",
+    "nonce": 1235519,
+    "owner": "0x9651B2a7Aa9ed9635cE896a1Af1a7d6294d5e902",
+    "price": 0,
+    "proxyAddress": "0x3EA68D112F0C43b54937c4DF39Df9C2d4B7eBB53",
+    "renderer": "0x0000000000000000000000000000000000000000",
+    "supply": 500,
+    "symbol": "UPDATEONPUBLISHINGTOOLS"
+  }
+}
